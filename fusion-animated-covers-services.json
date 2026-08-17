@@ -24,6 +24,12 @@
     "backgroundURL": "https://i.postimg.cc/JzkSVMTy/prime-video.png"
   },
   {
+    "id": "f65c7c16-8201-4305-8a2e-4b95dd3debd8",
+    "title": "HBO Max",
+    "videoURL": "https://raw.githubusercontent.com/Svabo89/fusion-config/main/video/HBO.mp4",
+    "backgroundURL": "https://i.postimg.cc/3R9D8yr8/hbo-max.png"
+  },
+  {
     "id": "a769b818-eba1-42c0-b1e2-5d9af29c464c",
     "title": "Paramount+",
     "videoURL": "https://raw.githubusercontent.com/Svabo89/fusion-config/main/video/Paramount.mp4",
