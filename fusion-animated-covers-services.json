@@ -46,5 +46,23 @@
     "title": "Peacock",
     "videoURL": "https://raw.githubusercontent.com/Svabo89/fusion-config/main/video/Peacock.mp4",
     "backgroundURL": "https://raw.githubusercontent.com/Svabo89/fusion-config/main/background/Peacock.png"
+  },
+  {
+    "id": "28289f07-6362-4aa3-8aae-a79a5c991d34",
+    "title": "STARZ",
+    "videoURL": "https://raw.githubusercontent.com/Svabo89/fusion-config/main/video/Starz.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Svabo89/fusion-config/main/background/Starz.png"
+  },
+  {
+    "id": "9eee4083-0a5f-4cac-94d8-e94db72cbc5a",
+    "title": "Shudder",
+    "videoURL": "https://raw.githubusercontent.com/Svabo89/fusion-config/main/video/Shudder.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Svabo89/fusion-config/main/background/Shudder.png"
+  },
+  {
+    "id": "b9135843-aa26-4516-a55f-b6974c4044b5",
+    "title": "AMC+",
+    "videoURL": "https://raw.githubusercontent.com/Svabo89/fusion-config/main/video/AMC.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Svabo89/fusion-config/main/background/amc.png"
   }
 ]
