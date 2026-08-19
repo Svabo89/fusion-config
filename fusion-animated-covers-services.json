@@ -3,48 +3,48 @@
     "id": "3d7143e2-a105-402c-89d8-989bae5de587",
     "title": "Netflix",
     "videoURL": "https://raw.githubusercontent.com/Svabo89/fusion-config/main/video/Netflix.mp4",
-    "backgroundURL": "https://i.postimg.cc/3R9D8yrK/netflix.png"
+    "backgroundURL": "https://raw.githubusercontent.com/Svabo89/fusion-config/main/background/Netflix.png"
   },
   {
     "id": "1885dfbd-127a-474d-85aa-69309515859e",
     "title": "Disney+",
     "videoURL": "https://raw.githubusercontent.com/Svabo89/fusion-config/main/video/Disney.mp4",
-    "backgroundURL": "https://i.postimg.cc/pTknW9VP/disney.png"
+    "backgroundURL": "https://raw.githubusercontent.com/Svabo89/fusion-config/main/background/Disney.png"
   },
   {
     "id": "26c9cd14-2ff5-4367-b311-aa1e6d42c89d",
     "title": "Apple TV",
     "videoURL": "https://raw.githubusercontent.com/Svabo89/fusion-config/main/video/AppleTv.mp4",
-    "backgroundURL": "https://i.postimg.cc/j5vJxWqT/apple-tv.png"
+    "backgroundURL": "https://raw.githubusercontent.com/Svabo89/fusion-config/main/background/AppleTV.png"
   },
   {
     "id": "bc08e2e4-011e-47b7-8cb4-843aed71b4a3",
     "title": "Prime Video",
     "videoURL": "https://raw.githubusercontent.com/Svabo89/fusion-config/main/video/Amazon.mp4",
-    "backgroundURL": "https://i.postimg.cc/JzkSVMTy/prime-video.png"
+    "backgroundURL": "https://raw.githubusercontent.com/Svabo89/fusion-config/main/background/Prime.png"
   },
   {
     "id": "f65c7c16-8201-4305-8a2e-4b95dd3debd8",
     "title": "HBO Max",
     "videoURL": "https://raw.githubusercontent.com/Svabo89/fusion-config/main/video/HBO.mp4",
-    "backgroundURL": "https://i.postimg.cc/3R9D8yr8/hbo-max.png"
+    "backgroundURL": "https://raw.githubusercontent.com/Svabo89/fusion-config/main/background/HBO.png"
   },
   {
     "id": "a769b818-eba1-42c0-b1e2-5d9af29c464c",
     "title": "Paramount+",
     "videoURL": "https://raw.githubusercontent.com/Svabo89/fusion-config/main/video/Paramount.mp4",
-    "backgroundURL": "https://i.postimg.cc/gJ46zwcm/paramount.png"
+    "backgroundURL": "https://raw.githubusercontent.com/Svabo89/fusion-config/main/background/Paramount.png"
   },
   {
     "id": "35548e64-679c-4ec4-a9a8-8397ff9f616e",
     "title": "Hulu",
     "videoURL": "https://raw.githubusercontent.com/Svabo89/fusion-config/main/video/Hulu.mp4",
-    "backgroundURL": "https://i.postimg.cc/bNM4BsR1/hulu.png"
+    "backgroundURL": "https://raw.githubusercontent.com/Svabo89/fusion-config/main/background/hulu.png"
   },
   {
     "id": "5a1db4a4-04f3-4758-ae78-339862e97f4a",
     "title": "Peacock",
     "videoURL": "https://raw.githubusercontent.com/Svabo89/fusion-config/main/video/Peacock.mp4",
-    "backgroundURL": "https://i.postimg.cc/fR91nDHV/peacock.png"
+    "backgroundURL": "https://raw.githubusercontent.com/Svabo89/fusion-config/main/background/Peacock.png"
   }
 ]
